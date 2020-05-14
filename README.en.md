@@ -78,7 +78,7 @@ When the user selects any currency the value updates without user having to pres
    
 As for the currency selection page, a filter was add in SearchBar format to search by the name or code of the currency, and the option to organize in ascending order by both code and name was also add.
 
-![alt text](https://github.com/kiviabrito/LiveCurrency-Android/blob/master/Screenshot_MainActivity.png) 
+![alt text](https://github.com/kiviabrito/LiveCurrency-Android/blob/master/Screenshot_ResultActivity.png) 
 
 #### Note: For the offline mode to work, the user must have had at least one "SuccessResponse" from the network request.
 
