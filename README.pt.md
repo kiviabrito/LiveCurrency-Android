@@ -80,7 +80,7 @@ Quando o usuário seleciona qualquer moeda o valor atualiza sem que ele/ela tenh
 
 Quanto a página de seleção da moeda, foi adicionado um filtro em formato SearchBar para pesquisa pelo nome ou código da moeda e também foi adicionado a opção de organizar por ordem crescente tanto pelo código como pelo nome.
 
-![alt text](https://github.com/kiviabrito/LiveCurrency-Android/blob/master/Screenshot_MainActivity.png) 
+![alt text](https://github.com/kiviabrito/LiveCurrency-Android/blob/master/Screenshot_ResultActivity.png) 
 
 #### Note: Para que o offline mode funcione é necessário que o usuário tenha tido pelo menos uma "SuccessResponse" do network request.
 
